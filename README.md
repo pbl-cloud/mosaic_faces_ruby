@@ -1,9 +1,12 @@
 mosaic_faces_ruby
 =================
 
-入力画像から顔を検出し，モザイクをかけるrubyスクリプトです。
-
-$ ruby face_mosaic.rb input_file
+A script to apply "mosaic filters" to faces on the input picture.  
 
 
-* openCV，ruby-opencvがインストールされている必要があります。
+how to use
+------
+You have to install openCV and ruby-opencv module before using this script.
+
+`` $ ruby face_mosaic.rb input_file ``
+
